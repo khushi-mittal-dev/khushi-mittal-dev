@@ -1,96 +1,37 @@
-# Hi, I'm Khushi Mittal! 👋
+Hi there, I'm Khushi Mittal! 👋
 
-### B.Tech CSE Student | Artificial Intelligence & Machine Learning
+🎓 B.Tech CSE (AI & ML) Student
 
-Welcome to my GitHub profile! I'm pursuing B.Tech in Computer Science Engineering with a specialization in Artificial Intelligence and Machine Learning.
+Welcome to my GitHub profile!
 
-I'm currently learning Python and exploring programming, technology, and software development.
+I'm a Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning. I'm passionate about technology, programming and exploring innovative solutions.
 
-## 🎓 About Me
+👩‍💻 About Me
 
-- 🎓 B.Tech CSE (AI & ML) Student
-- 💻 Currently learning Python
-- 🤖 Interested in Artificial Intelligence and Machine Learning
-- 🌱 Building my programming and problem-solving skills
-- 🚀 Exploring new technologies and working towards developing practical projects
+- 🎓 Pursuing B.Tech in Computer Science Engineering (AI & ML).
+- 💻 Currently learning Python programming.
+- 🤖 Interested in Artificial Intelligence and Machine Learning.
+- 🌱 Always eager to explore new technologies and develop new skills.
+- 🎯 Focused on improving my coding and problem-solving abilities.
 
-## 🛠️ Technical Skills
+🛠️ Technical Skills
 
-- **Programming Language:** Python
-- **Core Interests:** Artificial Intelligence, Machine Learning
-- **Currently Exploring:** Git and GitHub
+- Programming Language: Python
+- Areas of Interest: Artificial Intelligence, Machine Learning and Software Development.
 
-## 💻 Basic Git & GitHub Commands
+📚 Currently Learning
 
-Here are some basic commands I'm learning to manage projects and work with GitHub.
+- Python Programming
+- Artificial Intelligence
+- Machine Learning
 
-### 1. Check Git Version
-```bash
-git --version
-```
+🚀 My Goals
 
-### 2. Configure Git Username
-```bash
-git config --global user.name "Your Name"
-```
+- Strengthen my programming fundamentals.
+- Build practical projects and gain hands-on experience.
+- Explore AI and ML technologies.
+- Continuously grow as a technology professional.
 
-### 3. Initialize a Repository
-```bash
-git init
-```
+🌟 Thank You!
 
-### 4. Check Repository Status
-```bash
-git status
-```
-
-### 5. Add Files
-```bash
-git add .
-```
-
-### 6. Commit Changes
-```bash
-git commit -m "Initial commit"
-```
-
-### 7. Rename the Main Branch
-```bash
-git branch -M main
-```
-
-### 8. Connect a Local Repository to GitHub
-```bash
-git remote add origin https://github.com/khushi-mittal-dev/REPOSITORY-NAME.git
-```
-
-### 9. Push Code to GitHub
-```bash
-git push -u origin main
-```
-
-### 10. Pull Latest Changes
-```bash
-git pull
-```
-
-### 11. Clone a Repository
-```bash
-git clone REPOSITORY-URL
-```
-
-## 🎯 My Current Goals
-
-- Strengthen my Python fundamentals.
-- Learn Git and GitHub.
-- Understand the fundamentals of AI and ML.
-- Practice problem-solving.
-- Build beginner-friendly projects.
-
-## 📫 Connect With Me
-
-- **GitHub:** [@khushi-mittal-dev](https://github.com/khushi-mittal-dev)
-
----
-
-⭐ Learning, building, and growing one step at a time!
+Thanks for visiting my GitHub profile. I'm excited to learn, explore and build new things!
